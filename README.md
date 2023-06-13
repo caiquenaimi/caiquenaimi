@@ -2,7 +2,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquenaimi/)
 
-![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquenaimi&show_icons=true&theme=tokyonight)
+### Github stats📝
+
+![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquenaimi&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=caiquenaimi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquenaimi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 
 ## Tecnologias que eu uso no meu dia 
 
