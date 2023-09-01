@@ -17,7 +17,8 @@
 
 ## Segue abaixo meu portifólio para mais informações✨
 
-[![Portfólio](images/portfolio-profissional.png)(https://github.com/caiquenaimi/Portifolio-CN)](https://github.com/caiquenaimi/Portifolio-CN).
+[![Portfólio](images/portfolio-profissional.png | width=100)](https://github.com/caiquenaimi/Portifolio-CN)
+
 
 ## Contato:
 
