@@ -17,11 +17,9 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Segue abaixo meu portifólio para mais informações✨
+## Segue abaixo meu portfólio para mais informações ✨
 
-[![Portfólio](images/portfolio-profissional.png )](https://github.com/caiquenaimi/Portifolio-CN)
-
-
+[https://caiquenaimi.netlify.app](https://caiquenaimi.netlify.app)
 
 ## Contato:
 
