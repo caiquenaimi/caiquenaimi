@@ -31,7 +31,7 @@
 
 ## Segue abaixo meu portfólio para mais informações ✨
 
-[https://caiquenaimi.netlify.app](https://caiquenaimi.netlify.app)
+[https://caiquenaimi.vercel.app](https://caiquenaimi.vercel.app)
 
 ## Contato:
 
